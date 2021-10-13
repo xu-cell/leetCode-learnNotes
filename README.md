@@ -4,4 +4,4 @@
 #### Leetcode
 - [二叉树遍历](https://github.com/xu-cell/leetCode-learnNotes/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86.md)
 ##### 剑指offer
-- [剑指offer 09-两个栈实现队列](https://github.com/xu-cell/leetCode-learnNotes/blob/main/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer09.md)
+- [剑指offer合集](https://github.com/xu-cell/leetCode-learnNotes/blob/main/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer09.md)
